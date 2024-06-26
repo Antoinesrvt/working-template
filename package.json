@@ -3,6 +3,6 @@
     "prepare": "panda codegen"
   },
   "dependencies": {
-    "": "pandacss/dev"
+    "": "ark-ui/react"
   }
 }
